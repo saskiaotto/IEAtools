@@ -18,10 +18,7 @@ The function returns a matrix with 3 columns:
  }
 }
 \description{
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
-eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Calculate the variance inflation factors
 }
 \examples{
 x <- data.frame(a = 1:20, b = 1:20*2 + rnorm(20) )
