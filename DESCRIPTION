@@ -10,8 +10,8 @@ Authors@R: c(
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: CC0
-URL: https://gitlab.rrz.uni-hamburg.de/saskiaotto/IEAtools
-BugReports: https://gitlab.rrz.uni-hamburg.de/saskiaotto/IEAtools/issues
+URL: https://github.com/saskiaotto/IEAtools
+BugReports: https://github.com/saskiaotto/IEAtools/issues
 Depends: 
     R(>= 4.0.0)
 Imports:
